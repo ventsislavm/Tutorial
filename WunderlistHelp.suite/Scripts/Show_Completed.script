@@ -1,0 +1,8 @@
+﻿//View completed todos
+
+if ImageFound("Todos/Ticked checkbox")
+	Log "Completed todos shown"
+Else
+	Click "Todos/Show completed"
+	WaitFor 8, "Todos/Ticked checkbox"
+end if

@@ -1,0 +1,15 @@
+﻿
+put file "C:\Users\Ventsislav\Documents\todos.csv" into dataFile
+
+repeat with each line data in dataFile
+	put data
+	put the first item of data into list
+	put items 2 to -1 of data into todos
+	
+	Create_list list
+	
+	Repeat with each item of todos
+		Todo.create it
+	End Repeat
+	
+end repeat

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="_Test2 Multiple todos.script" package="Wunderlist.suite" timestamp="2016-06-01 11:20:23.023 +0100"
+ tests="1" successes="1" errors="2" time="4.032000">
+  <properties>
+   <property name="RunDate" value="2016-06-01 11:20:23.023 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="_Test2 Multiple todos.script" assertions="3" successes="1" errors="2" time="4.016">
+    <failure type="LogError">No todo found</failure>
+    <failure type="LogError">No todo found</failure>
+  </testcase>
+ </testsuite>
+</testsuites>

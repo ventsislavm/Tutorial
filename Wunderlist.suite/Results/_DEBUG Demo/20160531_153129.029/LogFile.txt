@@ -1,0 +1,4 @@
+﻿2016-05-31 15:31:29.029 +0100	START		Running _DEBUG Demo.script
+2016-05-31 15:31:29.029 +0100	Log		30	6	on__debug_demo	_DEBUG Demo.script
+2016-05-31 15:31:29.029 +0100	EndTestCase		(Duration:"0.313", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 15:31:29 +0100", Successes:"1", TestCase:"_DEBUG Demo.script", Warnings:"0")
+2016-05-31 15:31:29.029 +0100	SUCCESS		Execution Time 0:00:00 _DEBUG Demo.script

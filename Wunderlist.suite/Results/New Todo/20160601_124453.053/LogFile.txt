@@ -1,0 +1,3 @@
+﻿2016-06-01 12:44:53.053 +0100	START		Running New Todo.script
+2016-06-01 12:44:56.056 +0100	EndTestCase		(Duration:"2.681", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 12:44:53 +0100", Successes:"0", TestCase:"New Todo.script", Warnings:"0")
+2016-06-01 12:44:56.056 +0100	FAILURE	Screen_Error.png	Connection Failed Unable to connect to Server:i-b5223a19 on port:0\nError resolving host i-b5223a19\n -- Execution Time 0:00:03 New Todo.script

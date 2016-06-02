@@ -1,0 +1,9 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-31 14:05:29.029 +0100,"Failure",0:00:00,1,0,0,"20160531_140529.029/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'everythingimagelocation'",0
+2016-05-31 14:06:04.004 +0100,"Success",0:00:00,0,0,0,"20160531_140604.004/LogFile.txt","","",1
+2016-05-31 14:07:13.013 +0100,"Success",0:00:00,0,0,0,"20160531_140713.013/LogFile.txt","","",1
+2016-05-31 14:17:21.021 +0100,"Success",0:00:00,0,0,0,"20160531_141721.021/LogFile.txt","","",1
+2016-05-31 14:23:08.008 +0100,"Success",0:00:00,0,0,0,"20160531_142308.008/LogFile.txt","","",1
+2016-05-31 14:23:49.049 +0100,"Success",0:00:00,0,0,0,"20160531_142349.049/LogFile.txt","","",1
+2016-05-31 14:24:14.014 +0100,"Success",0:00:00,0,0,0,"20160531_142414.014/LogFile.txt","","",1
+2016-05-31 14:24:55.055 +0100,"Success",0:00:00,0,0,0,"20160531_142455.055/LogFile.txt","","",1

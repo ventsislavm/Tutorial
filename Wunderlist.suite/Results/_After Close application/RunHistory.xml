@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="_After Close application">
+ <run>
+  <RunDate>2016-05-31 15:09:51.051 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.844000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160531_150951.051/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

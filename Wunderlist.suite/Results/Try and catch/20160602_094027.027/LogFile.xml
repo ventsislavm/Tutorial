@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Try and catch.script" package="Wunderlist.suite" timestamp="2016-06-02 09:40:27.027 +0100"
+ tests="1" successes="1" errors="0" time="2.859000">
+  <properties>
+   <property name="RunDate" value="2016-06-02 09:40:27.027 +0100"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="Try and catch.script" assertions="1" successes="1" errors="0" time="2.844">
+  </testcase>
+ </testsuite>
+</testsuites>

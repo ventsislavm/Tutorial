@@ -1,0 +1,23 @@
+﻿2016-06-01 14:32:40.040 +0100	START		Running Data.script
+2016-06-01 14:32:41.041 +0100	click	Lists/Createlist	at (66, 706)	3	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:42.042 +0100	click	Lists/ListName	at (371, 166)	4	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:42.042 +0100	typetext		list A	5	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:43.043 +0100	click	Lists/Save/Save	at (641, 372)	6	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:46.046 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(344,210), ImageRectangle:(330,207,359,214), Language:"English", Text:"list A", TextDifference:"1", TextPlatform:"Generic OCR")	found at (344, 210)	7	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:48.048 +0100	everyimagelocation	Todos/Unticked Checkbox	found 0 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:48.048 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:50.050 +0100	everyimagelocation	Todos/Unticked Checkbox	found 0 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:50.050 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:51.051 +0100	click	Lists/Createlist	at (66, 706)	3	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:52.052 +0100	click	Lists/ListName	at (371, 166)	4	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:52.052 +0100	typetext		list B	5	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:53.053 +0100	click	Lists/Save/Save	at (641, 372)	6	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:55.055 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(316,45), ImageRectangle:(295,38,337,53), Language:"English", Text:"list B", TextDifference:"1", TextPlatform:"Generic OCR")	found at (316, 45)	7	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 14:32:57.057 +0100	everyimagelocation	Todos/Unticked Checkbox	found 0 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:57.057 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:59.059 +0100	everyimagelocation	Todos/Unticked Checkbox	found 0 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:32:59.059 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:33:02.002 +0100	everyimagelocation	Todos/Unticked Checkbox	found 0 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:33:02.002 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 14:33:02.002 +0100	EndTestCase		(Duration:"21.51", Errors:"5", Exceptions:"0", StartTime:"2016-06-01 14:32:40 +0100", Successes:"0", TestCase:"Data.script", Warnings:"0")
+2016-06-01 14:33:02.002 +0100	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 5 -- Execution Time 0:00:22 Data.script

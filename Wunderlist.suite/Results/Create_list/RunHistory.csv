@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-31 12:08:09.009 +0100,"Success",0:00:01,0,0,0,"20160531_120809.009/LogFile.txt","","",1
+2016-05-31 12:19:54.054 +0100,"Failure",0:00:44,1,0,1,"20160531_121954.054/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Save""",0
+2016-05-31 12:23:49.049 +0100,"Failure",0:00:25,1,0,1,"20160531_122349.049/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Save""",0
+2016-05-31 12:25:02.002 +0100,"Failure",0:00:22,1,0,1,"20160531_122502.002/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Createlist""",0
+2016-05-31 12:25:32.032 +0100,"Running",0:00:00,0,0,0,"20160531_122532.032/LogFile.txt","","",0
+2016-05-31 12:27:07.007 +0100,"Failure",0:00:25,1,0,1,"20160531_122707.007/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Save""",0

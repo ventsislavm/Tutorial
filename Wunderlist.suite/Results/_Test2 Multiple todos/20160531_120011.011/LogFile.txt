@@ -1,0 +1,12 @@
+﻿2016-05-31 12:00:11.011 +0100	START		Running _Test2 Multiple todos.script
+2016-05-31 12:00:12.012 +0100	click	Add todo field	at (368, 107)	3	on_create_todo	Create_todo.script
+2016-05-31 12:00:13.013 +0100	typetext		todo1[return]	4	on_create_todo	Create_todo.script
+2016-05-31 12:00:14.014 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo1", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	5	on_create_todo	Create_todo.script
+2016-05-31 12:00:15.015 +0100	click	Add todo field	at (368, 107)	3	on_create_todo	Create_todo.script
+2016-05-31 12:00:16.016 +0100	typetext		todo2[return]	4	on_create_todo	Create_todo.script
+2016-05-31 12:00:17.017 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo2", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	5	on_create_todo	Create_todo.script
+2016-05-31 12:00:18.018 +0100	click	Add todo field	at (368, 107)	3	on_create_todo	Create_todo.script
+2016-05-31 12:00:19.019 +0100	typetext		todo3[return]	4	on_create_todo	Create_todo.script
+2016-05-31 12:00:20.020 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo3", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	5	on_create_todo	Create_todo.script
+2016-05-31 12:00:20.020 +0100	EndTestCase		(Duration:"8.326", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 12:00:12 +0100", Successes:"1", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-05-31 12:00:20.020 +0100	SUCCESS		Execution Time 0:00:09 _Test2 Multiple todos.script

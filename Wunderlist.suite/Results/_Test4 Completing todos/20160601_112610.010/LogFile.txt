@@ -1,0 +1,30 @@
+﻿2016-06-01 11:26:10.010 +0100	START		Running _Test4 Completing todos.script
+2016-06-01 11:26:10.010 +0100	click	Lists/Createlist	at (66, 706)	3	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:26:12.012 +0100	click	Lists/ListName	at (371, 166)	4	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:26:13.013 +0100	typetext		Completing todos list	5	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:26:14.014 +0100	click	Lists/Save/Save	at (641, 372)	6	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:26:16.016 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(409,170), ImageRectangle:(341,163,478,177), Language:"English", Text:"Completing todos list", TextDifference:"1", TextPlatform:"Generic OCR")	found at (409, 170)	7	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:26:16.016 +0100	Log		Creating todotodo1	3	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:16.016 +0100	click	Todos/Add todo field	at (368, 107)	5	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:17.017 +0100	typetext		todo1[return]	6	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:19.019 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo1", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	7	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:19.019 +0100	LogSuccess		Todo createdtodo1	9	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:19.019 +0100	Log		Creating todotodo2	3	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:19.019 +0100	click	Todos/Add todo field	at (368, 107)	5	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:20.020 +0100	typetext		todo2[return]	6	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:21.021 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo2", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	7	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:21.021 +0100	LogSuccess		Todo createdtodo2	9	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:22.022 +0100	Log		Creating todotodo3	3	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:22.022 +0100	click	Todos/Add todo field	at (368, 107)	5	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:23.023 +0100	typetext		todo3[return]	6	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:24.024 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo3", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	7	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:24.024 +0100	LogSuccess		Todo createdtodo3	9	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:27.027 +0100	everyimagelocation	Todos/Unticked Checkbox	found 2 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:27.027 +0100	readtext		(315,166)
+2016-06-01 11:26:27.027 +0100	readtext		(315,213)
+2016-06-01 11:26:27.027 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:26:30.030 +0100	imagefound	Todos/Ticked checkbox	Unable to Find Image Todos/Ticked checkbox	3	on_show_completed	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Show_Completed.script
+2016-06-01 11:26:30.030 +0100	click	Todos/Show completed	at (388, 314)	6	on_show_completed	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Show_Completed.script
+2016-06-01 11:26:58.058 +0100	Exception	Todos/Ticked checkbox	Unable To Find Any Image On Screen "Todos/Ticked checkbox" within 8.00 seconds	7	on_show_completed	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Show_Completed.script
+2016-06-01 11:26:58.058 +0100	EndTestCase		(Duration:"48.655", Errors:"2", Exceptions:"1", StartTime:"2016-06-01 11:26:10 +0100", Successes:"3", TestCase:"_Test4 Completing todos.script", Warnings:"0")
+2016-06-01 11:26:59.059 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "Todos/Ticked checkbox" within 8.00 seconds -- Execution Time 0:00:48 _Test4 Completing todos.script

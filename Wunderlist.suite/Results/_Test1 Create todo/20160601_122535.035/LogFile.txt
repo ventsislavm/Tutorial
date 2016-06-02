@@ -1,0 +1,5 @@
+﻿2016-06-01 12:25:36.036 +0100	START		Running _Test1 Create todo.script
+2016-06-01 12:25:36.036 +0100	Log		Creating todoVariable todo	3	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:25:57.057 +0100	Exception	Todos/Add todo field	No Image Found On Screen: "Todos/Add todo field"	5	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 12:25:57.057 +0100	EndTestCase		(Duration:"21.81", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 12:25:36 +0100", Successes:"0", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-06-01 12:25:57.057 +0100	ABORTED		Execution Time 0:00:22 _Test1 Create todo.script

@@ -1,0 +1,10 @@
+﻿2016-06-01 10:39:47.047 +0100	START		Running _Test4 Completing todos.script
+2016-06-01 10:39:48.048 +0100	click	Lists/Createlist	at (66, 706)	3	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 10:39:50.050 +0100	click	Lists/ListName	at (371, 166)	4	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 10:39:51.051 +0100	typetext		Completing todos list	5	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 10:39:52.052 +0100	click	Lists/Save	at (641, 372)	6	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 10:39:54.054 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(109,177), ImageRectangle:(40,170,178,184), Language:"English", Text:"Completing todos list", TextDifference:"1", TextPlatform:"Generic OCR")	found at (109, 177)	7	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 10:39:54.054 +0100	Log		Creating todotodo1	3	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:39:54.054 +0100	Exception	Todo/Add todo field	Could Not Open Image: Todo/Add todo field	5	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:39:54.054 +0100	EndTestCase		(Duration:"6.891", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 10:39:48 +0100", Successes:"0", TestCase:"_Test4 Completing todos.script", Warnings:"0")
+2016-06-01 10:39:55.055 +0100	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Todo/Add todo field -- Execution Time 0:00:07 _Test4 Completing todos.script

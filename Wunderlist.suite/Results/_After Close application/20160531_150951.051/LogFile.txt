@@ -1,0 +1,5 @@
+﻿2016-05-31 15:09:51.051 +0100	START		Running _After Close application.script
+2016-05-31 15:09:51.051 +0100	click	Window/Close Window	at (997, 9)	1	on__after_close_application	_After Close application.script
+2016-05-31 15:09:52.052 +0100	waitfor	Wunderlist	found at (39, 354)	2	on__after_close_application	_After Close application.script
+2016-05-31 15:09:52.052 +0100	EndTestCase		(Duration:"0.829", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 15:09:51 +0100", Successes:"1", TestCase:"_After Close application.script", Warnings:"0")
+2016-05-31 15:09:52.052 +0100	SUCCESS		Execution Time 0:00:01 _After Close application.script

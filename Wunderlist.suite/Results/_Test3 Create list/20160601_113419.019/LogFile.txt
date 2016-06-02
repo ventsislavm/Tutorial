@@ -1,0 +1,8 @@
+﻿2016-06-01 11:34:19.019 +0100	START		Running _Test3 Create list.script
+2016-06-01 11:34:20.020 +0100	click	Lists/Createlist	at (66, 706)	3	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:34:21.021 +0100	click	Lists/ListName	at (371, 166)	4	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:34:22.022 +0100	typetext		List1	5	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:34:23.023 +0100	click	Lists/Save/Save	at (641, 372)	6	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:34:24.024 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(533,10), ImageRectangle:(522,5,544,16), Language:"English", Text:"List1", TextDifference:"1", TextPlatform:"Generic OCR")	found at (533, 10)	7	on_create_list	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_list.script
+2016-06-01 11:34:25.025 +0100	EndTestCase		(Duration:"5.187", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 11:34:19 +0100", Successes:"1", TestCase:"_Test3 Create list.script", Warnings:"0")
+2016-06-01 11:34:25.025 +0100	SUCCESS		Execution Time 0:00:06 _Test3 Create list.script

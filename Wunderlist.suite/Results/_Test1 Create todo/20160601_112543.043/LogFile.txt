@@ -1,0 +1,8 @@
+﻿2016-06-01 11:25:43.043 +0100	START		Running _Test1 Create todo.script
+2016-06-01 11:25:43.043 +0100	Log		Creating todoVariable todo	3	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:25:43.043 +0100	click	Todos/Add todo field	at (368, 107)	5	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:25:44.044 +0100	typetext		Variable todo[return]	6	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:25:46.046 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(377,164), ImageRectangle:(333,159,421,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"Variable todo", TextDifference:"2", TextPlatform:"Generic OCR")	found at (377, 164)	7	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:25:46.046 +0100	LogSuccess		Todo createdVariable todo	9	on_create	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:25:46.046 +0100	EndTestCase		(Duration:"3.234", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 11:25:43 +0100", Successes:"1", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-06-01 11:25:46.046 +0100	SUCCESS		Execution Time 0:00:03 _Test1 Create todo.script

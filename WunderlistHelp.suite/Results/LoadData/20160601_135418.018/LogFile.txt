@@ -1,0 +1,4 @@
+﻿2016-06-01 13:54:18.018 +0100	START		Running LoadData.script
+2016-06-01 13:54:18.018 +0100	Exception		Remote Connection Unavailable	3	on_create_list	Create_list.script
+2016-06-01 13:54:18.018 +0100	EndTestCase		(Duration:"0.416", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 13:54:18 +0100", Successes:"0", TestCase:"LoadData.script", Warnings:"0")
+2016-06-01 13:54:18.018 +0100	FAILURE		No Remote Connection click Error - Remote Connection Unavailable -- Execution Time 0:00:00 LoadData.script

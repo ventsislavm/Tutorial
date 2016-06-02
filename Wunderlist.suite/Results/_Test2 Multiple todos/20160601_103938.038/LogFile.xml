@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="_Test2 Multiple todos.script" package="Wunderlist.suite" timestamp="2016-06-01 10:39:38.038 +0100"
+ tests="1" successes="0" errors="1" time="0.438000">
+  <properties>
+   <property name="RunDate" value="2016-06-01 10:39:38.038 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="_Test2 Multiple todos.script" assertions="1" successes="0" errors="1" time="0.422">
+  </testcase>
+ </testsuite>
+</testsuites>

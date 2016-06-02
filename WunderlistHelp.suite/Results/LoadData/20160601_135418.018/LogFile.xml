@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="LoadData.script" package="WunderlistHelp.suite" timestamp="2016-06-01 13:54:18.018 +0100"
+ tests="1" successes="0" errors="1" time="0.436000">
+  <properties>
+   <property name="RunDate" value="2016-06-01 13:54:18.018 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="LoadData.script" assertions="1" successes="0" errors="1" time="0.416">
+  </testcase>
+ </testsuite>
+</testsuites>

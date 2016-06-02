@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<runHistory script="New Todo">
+ <run>
+  <RunDate>2016-06-01 12:42:12.012 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.661000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_124212.012/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0
+Error resolving host i-b5223a19
+</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-01 12:42:47.047 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.679000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_124247.047/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0
+Error resolving host i-b5223a19
+</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-01 12:44:53.053 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.703000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_124453.053/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0
+Error resolving host i-b5223a19
+</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-01 12:46:04.004 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.676000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160601_124604.004/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0
+Error resolving host i-b5223a19
+</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-01 12:46:26.026 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>2.761000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160601_124626.026/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

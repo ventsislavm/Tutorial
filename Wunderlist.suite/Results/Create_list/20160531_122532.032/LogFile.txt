@@ -1,0 +1,6 @@
+﻿2016-05-31 12:25:32.032 +0100	START		Running Create_list.script
+2016-05-31 12:25:33.033 +0100	click	Createlist	at (66, 706)	3	on_create_list	Create_list.script
+2016-05-31 12:25:34.034 +0100	click	ListName	at (371, 166)	4	on_create_list	Create_list.script
+2016-05-31 12:25:35.035 +0100	typetext			5	on_create_list	Create_list.script
+2016-05-31 12:27:04.004 +0100	EndTestCase		(Duration:"92.12", Errors:"1", Exceptions:"0", StartTime:"2016-05-31 12:25:32 +0100", Successes:"0", TestCase:"Create_list.script", Warnings:"0")
+2016-05-31 12:27:04.004 +0100	ABORTED		Execution Time 0:01:32 Create_list.script

@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 14:03:12.012 +0100,"Failure",0:00:00,1,0,1,"20160601_140312.012/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",0
+2016-06-01 14:32:40.040 +0100,"Failure",0:00:21,5,0,0,"20160601_143240.040/LogFile.txt","","Script Error -- Number of Errors logged: 5",0
+2016-06-01 14:33:31.031 +0100,"Running",0:00:00,0,0,0,"20160601_143331.031/LogFile.txt","","",0
+2016-06-01 14:34:12.012 +0100,"Running",0:00:00,0,0,0,"20160601_143412.012/LogFile.txt","","",0
+2016-06-01 14:34:43.043 +0100,"Success",0:00:26,0,0,0,"20160601_143443.043/LogFile.txt","","",5
+2016-06-01 14:38:00.000 +0100,"Success",0:00:28,0,0,0,"20160601_143800.000/LogFile.txt","","",5

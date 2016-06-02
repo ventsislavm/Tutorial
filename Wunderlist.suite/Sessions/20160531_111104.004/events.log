@@ -1,0 +1,30 @@
+1	0.00200003	start	
+2	3.585	mouseDown	{button:1, clickCount:1, hotSpot:[359.020966, 107.632141]}
+3	3.779	mouseUp	{button:1, clickCount:1, hotSpot:[359.020966, 107.632141]}
+4	11.411	flagsChanged	131072
+5	11.886	keyDown	{modifiers:131072, string:@"M", theKey:@"m"}
+6	12.096	flagsChanged	0
+7	12.104	keyUp	{modifiers:0, string:@"m", theKey:@"m"}
+8	12.321	keyDown	{modifiers:0, string:@"y", theKey:@"y"}
+9	12.321	keyUp	{modifiers:0, string:@"y", theKey:@"y"}
+10	12.336	keyDown	{modifiers:0, string:@" ", theKey:@" "}
+11	12.352	keyUp	{modifiers:0, string:@" ", theKey:@" "}
+12	13.323	keyDown	{modifiers:0, string:@"n", theKey:@"n"}
+13	13.586	keyUp	{modifiers:0, string:@"n", theKey:@"n"}
+14	13.586	keyDown	{modifiers:0, string:@"e", theKey:@"e"}
+15	13.609	keyUp	{modifiers:0, string:@"e", theKey:@"e"}
+16	13.856	keyDown	{modifiers:0, string:@"w", theKey:@"w"}
+17	13.856	keyUp	{modifiers:0, string:@"w", theKey:@"w"}
+18	15.828	keyDown	{modifiers:0, string:@" ", theKey:@" "}
+19	16.036	keyUp	{modifiers:0, string:@" ", theKey:@" "}
+20	16.042	keyDown	{modifiers:0, string:@"t", theKey:@"t"}
+21	16.289	keyUp	{modifiers:0, string:@"t", theKey:@"t"}
+22	16.305	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+23	16.305	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+24	16.558	keyDown	{modifiers:0, string:@"d", theKey:@"d"}
+25	16.574	keyUp	{modifiers:0, string:@"d", theKey:@"d"}
+26	16.821	keyDown	{modifiers:0, string:@"o", theKey:@"o"}
+27	16.839	keyUp	{modifiers:0, string:@"o", theKey:@"o"}
+28	29.635	keyDown	{modifiers:0, string:@"\r", theKey:@"\r"}
+29	29.875	keyUp	{modifiers:0, string:@"\r", theKey:@"\r"}
+30	38.514	end	

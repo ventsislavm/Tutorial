@@ -1,0 +1,5 @@
+﻿2016-06-01 10:39:37.037 +0100	START		Running _Test1 Create todo.script
+2016-06-01 10:39:38.038 +0100	Log		Creating todoVariable todo	3	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:39:38.038 +0100	Exception	Todo/Add todo field	Could Not Open Image: Todo/Add todo field	5	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:39:38.038 +0100	EndTestCase		(Duration:"0.5", Errors:"1", Exceptions:"1", StartTime:"2016-06-01 10:39:37 +0100", Successes:"0", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-06-01 10:39:38.038 +0100	FAILURE	Screen_Error.png	File Not Found click Error - Could Not Open Image: Todo/Add todo field -- Execution Time 0:00:01 _Test1 Create todo.script

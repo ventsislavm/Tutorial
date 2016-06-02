@@ -1,0 +1,8 @@
+﻿2016-05-31 12:29:25.025 +0100	START		Running _Test3 Create list.script
+2016-05-31 12:29:25.025 +0100	click	Createlist	at (66, 706)	3	on_create_list	Create_list.script
+2016-05-31 12:29:27.027 +0100	click	ListName	at (371, 166)	4	on_create_list	Create_list.script
+2016-05-31 12:29:28.028 +0100	typetext		List1	5	on_create_list	Create_list.script
+2016-05-31 12:29:29.029 +0100	click	Save	at (641, 372)	6	on_create_list	Create_list.script
+2016-05-31 12:30:05.005 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", Text:"List1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"List1")" within 8.00 seconds	7	on_create_list	Create_list.script
+2016-05-31 12:30:06.006 +0100	EndTestCase		(Duration:"40.952", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 12:29:25 +0100", Successes:"0", TestCase:"_Test3 Create list.script", Warnings:"0")
+2016-05-31 12:30:06.006 +0100	ABORTED		Execution Time 0:00:41 _Test3 Create list.script

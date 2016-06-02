@@ -1,0 +1,6 @@
+﻿2016-05-31 11:59:44.044 +0100	START		Running _Test2 Multiple todos.script
+2016-05-31 11:59:44.044 +0100	Log		todo1	4	on__test2_multiple_todos	_Test2 Multiple todos.script
+2016-05-31 11:59:44.044 +0100	Log		todo2	4	on__test2_multiple_todos	_Test2 Multiple todos.script
+2016-05-31 11:59:44.044 +0100	Log		todo3	4	on__test2_multiple_todos	_Test2 Multiple todos.script
+2016-05-31 11:59:44.044 +0100	EndTestCase		(Duration:"0.247", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:59:44 +0100", Successes:"1", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-05-31 11:59:44.044 +0100	SUCCESS		Execution Time 0:00:00 _Test2 Multiple todos.script

@@ -1,0 +1,5 @@
+﻿put ["todo1", "todo2", "todo3"] into todos
+
+Repeat with each item of todos
+	Todo.complete (it)
+End Repeat

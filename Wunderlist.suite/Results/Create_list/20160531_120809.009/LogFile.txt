@@ -1,0 +1,5 @@
+﻿2016-05-31 12:08:09.009 +0100	START		Running Create_list.script
+2016-05-31 12:08:09.009 +0100	click	Createlist	at (66, 706)	1	on_create_list	Create_list.script
+2016-05-31 12:08:10.010 +0100	typetext		List1	2	on_create_list	Create_list.script
+2016-05-31 12:08:10.010 +0100	EndTestCase		(Duration:"1.554", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 12:08:09 +0100", Successes:"1", TestCase:"Create_list.script", Warnings:"0")
+2016-05-31 12:08:10.010 +0100	SUCCESS		Execution Time 0:00:01 Create_list.script

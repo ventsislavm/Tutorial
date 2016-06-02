@@ -1,0 +1,4 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-31 15:30:26.026 +0100,"Failure",0:00:00,1,0,0,"20160531_153026.026/LogFile.txt","","STInvalidNumber -- Value is not a number: 'var1'",0
+2016-05-31 15:30:40.040 +0100,"Success",0:00:00,0,0,0,"20160531_153040.040/LogFile.txt","","",1
+2016-05-31 15:31:29.029 +0100,"Success",0:00:00,0,0,0,"20160531_153129.029/LogFile.txt","","",1

@@ -1,0 +1,3 @@
+﻿DoubleClick "Wunderlist/Wunderlist"
+Click "Window/MaximiseWindow"
+WaitFor 8.0, "Username"

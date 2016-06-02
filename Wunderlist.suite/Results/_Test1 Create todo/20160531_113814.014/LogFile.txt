@@ -1,0 +1,6 @@
+﻿2016-05-31 11:38:14.014 +0100	START		Running _Test1 Create todo.script
+2016-05-31 11:38:15.015 +0100	click	Add todo field	at (368, 107)	3	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:38:16.016 +0100	typetext		Variable todo[return]	4	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:38:17.017 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(377,164), ImageRectangle:(333,159,421,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"Variable todo", TextDifference:"2", TextPlatform:"Generic OCR")	found at (377, 164)	5	on__test1_create_todo	_Test1 Create todo.script
+2016-05-31 11:38:17.017 +0100	EndTestCase		(Duration:"2.805", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 11:38:14 +0100", Successes:"1", TestCase:"_Test1 Create todo.script", Warnings:"0")
+2016-05-31 11:38:17.017 +0100	SUCCESS		Execution Time 0:00:03 _Test1 Create todo.script

@@ -1,0 +1,22 @@
+﻿2016-06-01 11:34:14.014 +0100	START		Running _Test2 Multiple todos.script
+2016-06-01 11:34:14.014 +0100	everyimagelocation	Todos/Unticked Checkbox	found 4 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:34:14.014 +0100	readtext		(315,166)
+2016-06-01 11:34:15.015 +0100	readtext		(315,213)
+2016-06-01 11:34:15.015 +0100	readtext		(315,260)
+2016-06-01 11:34:15.015 +0100	readtext		(315,307)
+2016-06-01 11:34:15.015 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:34:15.015 +0100	everyimagelocation	Todos/Unticked Checkbox	found 4 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:34:15.015 +0100	readtext		(315,166)
+2016-06-01 11:34:16.016 +0100	readtext		(315,213)
+2016-06-01 11:34:16.016 +0100	readtext		(315,260)
+2016-06-01 11:34:16.016 +0100	readtext		(315,307)
+2016-06-01 11:34:16.016 +0100	click		at (315, 307)	8	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:34:16.016 +0100	LogSuccess		Todo checked	14	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:34:17.017 +0100	everyimagelocation	Todos/Unticked Checkbox	found 3 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:34:17.017 +0100	readtext		(315,166)
+2016-06-01 11:34:17.017 +0100	readtext		(315,213)
+2016-06-01 11:34:17.017 +0100	click		at (315, 213)	8	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:34:18.018 +0100	readtext		(315,260)
+2016-06-01 11:34:18.018 +0100	LogSuccess		Todo checked	14	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:34:18.018 +0100	EndTestCase		(Duration:"4.265", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 11:34:14 +0100", Successes:"2", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-06-01 11:34:19.019 +0100	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 1 -- Execution Time 0:00:04 _Test2 Multiple todos.script

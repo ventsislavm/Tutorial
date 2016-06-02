@@ -1,0 +1,31 @@
+﻿to complete todo_name
+
+	put false into image_found
+	
+	Repeat with each item of EveryImageLocation("Todos/Unticked Checkbox")
+		put ReadText(it) into todo_text
+		if todo_text contains todo_name
+			Click it
+			put true into image_found
+		end if
+	End Repeat
+	
+	if image_found
+		LogSuccess"Todo checked"
+	Else
+		LogError"No todo found"
+	end if
+	
+end complete
+
+to create  todo_name
+	
+	Log "Creating todo" & todo_name
+	
+	Click "Todos/Add todo field"
+	TypeText todo_name, Return
+	WaitFor 8.0, (Text:todo_name, TextDifference: 2, SearchRectangle:("Todos/Todo list top-left", "Todos/Todo list bottom-right")  )
+	
+	LogSuccess"Todo created" & todo_name
+	
+end create

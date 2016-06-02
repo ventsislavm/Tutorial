@@ -1,0 +1,15 @@
+﻿2016-06-01 11:21:53.053 +0100	START		Running _Test2 Multiple todos.script
+2016-06-01 11:21:54.054 +0100	everyimagelocation	Todos/Unticked Checkbox	found 2 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:21:54.054 +0100	readtext		(315,166)
+2016-06-01 11:21:54.054 +0100	readtext		(315,213)
+2016-06-01 11:21:54.054 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:21:54.054 +0100	everyimagelocation	Todos/Unticked Checkbox	found 2 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:21:55.055 +0100	readtext		(315,166)
+2016-06-01 11:21:55.055 +0100	readtext		(315,213)
+2016-06-01 11:21:55.055 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:21:55.055 +0100	everyimagelocation	Todos/Unticked Checkbox	found 2 images	5	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:21:55.055 +0100	readtext		(315,166)
+2016-06-01 11:21:55.055 +0100	readtext		(315,213)
+2016-06-01 11:21:55.055 +0100	LogError		No todo found	16	on_complete	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-01 11:21:55.055 +0100	EndTestCase		(Duration:"1.953", Errors:"3", Exceptions:"0", StartTime:"2016-06-01 11:21:53 +0100", Successes:"0", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-06-01 11:21:56.056 +0100	FAILURE	Screen_Error.png	Script Error Number of Errors logged: 3 -- Execution Time 0:00:02 _Test2 Multiple todos.script

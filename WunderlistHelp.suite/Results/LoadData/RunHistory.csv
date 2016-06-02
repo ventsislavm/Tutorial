@@ -1,0 +1,3 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 13:54:18.018 +0100,"Failure",0:00:00,1,0,1,"20160601_135418.018/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",0
+2016-06-01 14:03:45.045 +0100,"Failure",0:00:00,1,0,1,"20160601_140345.045/LogFile.txt","","No Remote Connection -- click Error - Remote Connection Unavailable",0

@@ -1,0 +1,14 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-31 13:48:50.050 +0100,"Success",0:00:14,0,0,0,"20160531_134850.050/LogFile.txt","","",1
+2016-05-31 14:30:19.019 +0100,"Success",0:00:16,0,0,0,"20160531_143019.019/LogFile.txt","","",1
+2016-05-31 14:43:47.047 +0100,"Failure",0:00:19,1,0,1,"20160531_144347.047/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Show completed",0
+2016-05-31 14:47:39.039 +0100,"Failure",0:00:19,1,0,1,"20160531_144739.039/LogFile.txt","","File Not Found -- waitfor Error - Could Not Open Image: Completed todo2",0
+2016-05-31 14:49:32.032 +0100,"Success",0:00:19,0,0,0,"20160531_144932.032/LogFile.txt","","",1
+2016-05-31 14:51:17.017 +0100,"Success",0:00:23,0,0,0,"20160531_145117.017/LogFile.txt","","",1
+2016-06-01 10:39:47.047 +0100,"Failure",0:00:06,1,0,1,"20160601_103947.047/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: Todo/Add todo field",0
+2016-06-01 10:56:36.036 +0100,"Success",0:00:20,0,0,0,"20160601_105636.036/LogFile.txt","","",1
+2016-06-01 11:20:33.033 +0100,"Failure",0:00:06,1,0,0,"20160601_112033.033/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_todo'",0
+2016-06-01 11:21:36.036 +0100,"Running",0:00:00,0,0,0,"20160601_112136.036/LogFile.txt","","",0
+2016-06-01 11:22:01.001 +0100,"Success",0:00:21,0,0,0,"20160601_112201.001/LogFile.txt","","",4
+2016-06-01 11:26:10.010 +0100,"Failure",0:00:48,2,0,1,"20160601_112610.010/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""Todos/Ticked checkbox"" within 8.00 seconds",3
+2016-06-01 11:34:25.025 +0100,"Success",0:00:21,0,0,0,"20160601_113425.025/LogFile.txt","","",4

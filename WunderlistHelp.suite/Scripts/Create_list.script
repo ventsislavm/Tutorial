@@ -1,0 +1,8 @@
+﻿params todo_list
+
+Click "Lists/Createlist"
+Click "Lists/ListName"
+TypeText todo_list
+Click "Lists/Save/Save"
+WaitFor 8.0, (Text:todo_list,TextDifference:1)
+

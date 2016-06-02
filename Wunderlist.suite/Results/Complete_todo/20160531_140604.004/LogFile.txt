@@ -1,0 +1,10 @@
+﻿2016-05-31 14:06:04.004 +0100	START		Running Complete_todo.script
+2016-05-31 14:06:04.004 +0100	everyimagelocation	Unticked Checkbox	found 3 images	3	on_complete_todo	Complete_todo.script
+2016-05-31 14:06:05.005 +0100	readtext		(315,166)
+2016-05-31 14:06:05.005 +0100	Log		3\tD t0d°3	5	on_complete_todo	Complete_todo.script
+2016-05-31 14:06:05.005 +0100	readtext		(315,213)
+2016-05-31 14:06:05.005 +0100	Log		: todo2	5	on_complete_todo	Complete_todo.script
+2016-05-31 14:06:05.005 +0100	readtext		(315,260)
+2016-05-31 14:06:05.005 +0100	Log		! todol	5	on_complete_todo	Complete_todo.script
+2016-05-31 14:06:05.005 +0100	EndTestCase		(Duration:"0.974", Errors:"0", Exceptions:"0", StartTime:"2016-05-31 14:06:04 +0100", Successes:"1", TestCase:"Complete_todo.script", Warnings:"0")
+2016-05-31 14:06:05.005 +0100	SUCCESS		Execution Time 0:00:01 Complete_todo.script

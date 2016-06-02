@@ -1,0 +1,5 @@
+﻿2016-06-01 13:09:37.037 +0100	START		Running LoadData.script
+2016-06-01 13:09:37.037 +0100	Log		 todo 1, todo 2, todo 3	9	on_loaddata	LoadData.script
+2016-06-01 13:09:37.037 +0100	Log		list B	10	on_loaddata	LoadData.script
+2016-06-01 13:09:37.037 +0100	EndTestCase		(Duration:"0.231", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 13:09:37 +0100", Successes:"1", TestCase:"LoadData.script", Warnings:"0")
+2016-06-01 13:09:37.037 +0100	SUCCESS		Execution Time 0:00:00 LoadData.script

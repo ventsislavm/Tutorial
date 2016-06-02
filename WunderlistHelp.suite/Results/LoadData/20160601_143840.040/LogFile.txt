@@ -1,0 +1,8 @@
+﻿2016-06-01 14:38:40.040 +0100	START		Running LoadData.script
+2016-06-01 14:39:13.013 +0100	click	Lists/Createlist	at (66, 706)	3	on_create_list	Create_list.script
+2016-06-01 14:39:15.015 +0100	click	Lists/ListName	at (371, 166)	4	on_create_list	Create_list.script
+2016-06-01 14:39:16.016 +0100	typetext		list A	5	on_create_list	Create_list.script
+2016-06-01 14:39:17.017 +0100	click	Lists/Save/Save	at (641, 372)	6	on_create_list	Create_list.script
+2016-06-01 14:39:18.018 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(315,45), ImageRectangle:(295,38,336,53), Language:"English", Text:"list A", TextDifference:"1", TextPlatform:"Generic OCR")	found at (315, 45)	7	on_create_list	Create_list.script
+2016-06-01 15:27:23.023 +0100	EndTestCase		(Duration:"2923.391", Errors:"1", Exceptions:"0", StartTime:"2016-06-01 14:38:40 +0100", Successes:"0", TestCase:"LoadData.script", Warnings:"0")
+2016-06-01 15:27:23.023 +0100	ABORTED		Execution Time 0:48:43 LoadData.script

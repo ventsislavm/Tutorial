@@ -1,0 +1,18 @@
+﻿2016-06-01 10:56:23.023 +0100	START		Running _Test2 Multiple todos.script
+2016-06-01 10:56:23.023 +0100	Log		Creating todotodo1	3	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:23.023 +0100	click	Todos/Add todo field	at (368, 107)	5	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:24.024 +0100	typetext		todo1[return]	6	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:25.025 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo1", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	7	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:25.025 +0100	Log		Success	9	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:25.025 +0100	Log		Creating todotodo2	3	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:25.025 +0100	click	Todos/Add todo field	at (368, 107)	5	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:26.026 +0100	typetext		todo2[return]	6	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:27.027 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo2", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	7	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:27.027 +0100	Log		Success	9	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:28.028 +0100	Log		Creating todotodo3	3	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:28.028 +0100	click	Todos/Add todo field	at (368, 107)	5	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:29.029 +0100	typetext		todo3[return]	6	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:30.030 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(352,164), ImageRectangle:(333,159,372,170), Language:"English", SearchRectangle:(312,136,990,700), Text:"todo3", TextDifference:"2", TextPlatform:"Generic OCR")	found at (352, 164)	7	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:30.030 +0100	Log		Success	9	on_create_todo	C:/Users/Ventsislav/Documents/WunderlistHelp.suite/Scripts/Create_todo.script
+2016-06-01 10:56:30.030 +0100	EndTestCase		(Duration:"7.656", Errors:"0", Exceptions:"0", StartTime:"2016-06-01 10:56:23 +0100", Successes:"1", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-06-01 10:56:30.030 +0100	SUCCESS		Execution Time 0:00:07 _Test2 Multiple todos.script

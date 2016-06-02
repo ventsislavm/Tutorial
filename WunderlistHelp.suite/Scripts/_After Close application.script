@@ -1,0 +1,2 @@
+﻿Click "Window/Close Window"
+WaitFor 8, "Wunderlist/Wunderlist"

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="_Test3 Create list">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-05-31 12:30:21 +0100</FirstRun>
+  <LastRun>2016-06-01 11:34:19 +0100</LastRun>
+  <TotalTimeOnSuccess>50.846000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Test1 Create todo">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>15</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2016-05-31 11:18:46 +0100</FirstRun>
+  <LastRun>2016-06-01 12:26:00 +0100</LastRun>
+  <TotalTimeOnSuccess>36.654000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Test4 Completing todos">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>12</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2016-05-31 13:48:50 +0100</FirstRun>
+  <LastRun>2016-06-01 11:34:25 +0100</LastRun>
+  <TotalTimeOnSuccess>138.097000</TotalTimeOnSuccess>
+ </script>
+ <script name="_DEBUG Demo">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-05-31 15:30:26 +0100</FirstRun>
+  <LastRun>2016-05-31 15:31:29 +0100</LastRun>
+  <TotalTimeOnSuccess>0.688000</TotalTimeOnSuccess>
+ </script>
+ <script name="Try and catch">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-02 09:40:27 +0100</FirstRun>
+  <LastRun>2016-06-02 09:40:27 +0100</LastRun>
+  <TotalTimeOnSuccess>2.859000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Test2 Multiple todos">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>8</NumberOfRuns>
+  <NumberOfFails>5</NumberOfFails>
+  <FirstRun>2016-05-31 11:59:44 +0100</FirstRun>
+  <LastRun>2016-06-01 11:34:14 +0100</LastRun>
+  <TotalTimeOnSuccess>16.276000</TotalTimeOnSuccess>
+ </script>
+ <script name="Data">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>4</NumberOfRuns>
+  <NumberOfFails>2</NumberOfFails>
+  <FirstRun>2016-06-01 14:03:12 +0100</FirstRun>
+  <LastRun>2016-06-01 14:38:00 +0100</LastRun>
+  <TotalTimeOnSuccess>55.371000</TotalTimeOnSuccess>
+ </script>
+</statistics>

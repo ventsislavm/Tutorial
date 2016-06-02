@@ -1,0 +1,3 @@
+﻿2016-05-31 15:30:26.026 +0100	START		Running _DEBUG Demo.script
+2016-05-31 15:30:26.026 +0100	EndTestCase		(Duration:"0.329", Errors:"1", Exceptions:"0", StartTime:"2016-05-31 15:30:26 +0100", Successes:"0", TestCase:"_DEBUG Demo.script", Warnings:"0")
+2016-05-31 15:30:27.027 +0100	FAILURE	Screen_Error.png	STInvalidNumber Value is not a number: 'var1' -- Execution Time 0:00:00 _DEBUG Demo.script

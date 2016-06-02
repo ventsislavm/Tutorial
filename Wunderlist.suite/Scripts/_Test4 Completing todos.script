@@ -1,0 +1,21 @@
+﻿//Create list
+put "Completing todos list" into list_name
+
+Create_list list_name
+
+//Create tools
+
+put ["todo1", "todo2", "todo3"] into todos
+
+Repeat with each item of todos
+	Todo.create it
+End Repeat
+
+Wait 2
+
+//Complete todo
+Todo.complete "todo2"
+
+Show_Completed
+
+WaitFor 8, "Todos\Completed todo2"

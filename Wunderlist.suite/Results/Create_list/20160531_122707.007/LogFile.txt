@@ -1,0 +1,7 @@
+﻿2016-05-31 12:27:07.007 +0100	START		Running Create_list.script
+2016-05-31 12:27:07.007 +0100	click	Createlist	at (66, 706)	3	on_create_list	Create_list.script
+2016-05-31 12:27:09.009 +0100	click	ListName	at (371, 166)	4	on_create_list	Create_list.script
+2016-05-31 12:27:10.010 +0100	typetext			5	on_create_list	Create_list.script
+2016-05-31 12:27:33.033 +0100	Exception	Save	No Image Found On Screen: "Save"	6	on_create_list	Create_list.script
+2016-05-31 12:27:33.033 +0100	EndTestCase		(Duration:"25.868", Errors:"1", Exceptions:"1", StartTime:"2016-05-31 12:27:07 +0100", Successes:"0", TestCase:"Create_list.script", Warnings:"0")
+2016-05-31 12:27:33.033 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Save" -- Execution Time 0:00:26 Create_list.script

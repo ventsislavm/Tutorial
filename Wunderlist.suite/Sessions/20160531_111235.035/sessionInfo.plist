@@ -1,0 +1,41 @@
+{
+    commandList = "[{captureRect:[333, 645, 403, 675], command:@\"Click\", eventNum:2, hotSpot:[3.6805294799999996e+002, 1.0763214099999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0001\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0002.png\"}, {captureRect:[277, 649, 347, 679], command:@\"Click\", eventNum:4, hotSpot:[3.1273208599999998e+002, 1.0314746099999999e+002], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0003\", searchType:@\"Tolerant\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0004.png\"}, {command:@\"KeyDown\", eventNum:6, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0004.png\", text:@\"ShiftKey\"}, {command:@\"KeyUp\", eventNum:7, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0004.png\", text:@\"ShiftKey\"}, {captureRect:[434, 657, 504, 687], command:@\"MoveTo\", eventNum:8, hotSpot:[4.6966262799999998e+002, 9.5299255000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"image0002\", searchType:@\"Precise\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0008.png\"}, {command:@\"TypeText\", eventNum:9, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"\\\"my\\\"\"}, {command:@\"KeyDown\", eventNum:13, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"\\\" \\\"\"}, {command:@\"KeyUp\", eventNum:14, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"\\\" \\\"\"}, {command:@\"TypeText\", eventNum:15, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"Backspace\"}, {command:@\"KeyDown\", eventNum:17, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"Backspace\"}, {command:@\"KeyUp\", eventNum:18, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"Backspace\"}, {command:@\"TypeText\", eventNum:19, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"Backspace,Backspace,Backspace\"}, {command:@\"KeyDown\", eventNum:25, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"Backspace\"}, {command:@\"KeyUp\", eventNum:26, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0009.png\", text:@\"Backspace\"}, {command:@\"TypeText\", eventNum:28, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0028.png\", text:@\"\\\"My \\\"\"}, {command:@\"KeyDown\", eventNum:35, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0030.png\", text:@\"\\\"n\\\"\"}, {command:@\"KeyUp\", eventNum:36, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0030.png\", text:@\"\\\"n\\\"\"}, {command:@\"TypeText\", eventNum:37, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0030.png\", text:@\"\\\"ew\\\"\"}, {command:@\"KeyDown\", eventNum:41, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0030.png\", text:@\"\\\" \\\"\"}, {command:@\"KeyUp\", eventNum:42, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0030.png\", text:@\"\\\" \\\"\"}, {command:@\"TypeText\", eventNum:43, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0030.png\", text:@\"\\\"todo\\\"\"}, {captureRect:[303, 650, 426, 668], command:@\"Click\", eventNum:51, hotSpot:[4.6966262799999998e+002, 9.5299255000000002e+001], imageName:@\"\", infoDict:{folderPath:@\"/\", imageName:@\"Mynewtodo\", searchType:@\"Text\", waitFor:@\"\"}, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0051.png\"}, {command:@\"TypeText\", eventNum:53, screenShotFile:@\"C:/Users/Ventsislav/Documents/Wunderlist.suite/Sessions/20160531_111235.035/Screen0053.png\", text:@\"Return\"}]";
+    generatedCommands = (
+	"Click \"image0001\"",
+	"Click \"image0003\"",
+	"KeyDown ShiftKey",
+	"KeyUp ShiftKey",
+	"MoveTo \"image0002\"",
+	"TypeText \"my\"",
+	"KeyDown \" \"",
+	"KeyUp \" \"",
+	"TypeText Backspace",
+	"KeyDown Backspace",
+	"KeyUp Backspace",
+	"TypeText Backspace,Backspace,Backspace",
+	"KeyDown Backspace",
+	"KeyUp Backspace",
+	"TypeText \"My \"",
+	"KeyDown \"n\"",
+	"KeyUp \"n\"",
+	"TypeText \"ew\"",
+	"KeyDown \" \"",
+	"KeyUp \" \"",
+	"TypeText \"todo\"",
+	"Click \"Mynewtodo\"",
+	"TypeText Return"
+    );
+    locallyAddedFiles = {
+	"" = (
+	    "image0001.png",
+	    "image0002.png",
+	    "image0001.png",
+	    "image0003.png",
+	    "image0003.png",
+	    "image0002.png",
+	    "Mynewtodo.png",
+	    "Mynewtodo.png"
+	);
+    };
+    unnamedImageCount = <*I0>;
+}

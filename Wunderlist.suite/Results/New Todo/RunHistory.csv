@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 12:42:12.012 +0100,"Failure",0:00:02,1,0,0,"20160601_124212.012/LogFile.txt","","Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0\nError resolving host i-b5223a19\n",0
+2016-06-01 12:42:47.047 +0100,"Failure",0:00:02,1,0,0,"20160601_124247.047/LogFile.txt","","Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0\nError resolving host i-b5223a19\n",0
+2016-06-01 12:44:53.053 +0100,"Failure",0:00:02,1,0,0,"20160601_124453.053/LogFile.txt","","Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0\nError resolving host i-b5223a19\n",0
+2016-06-01 12:46:04.004 +0100,"Failure",0:00:02,1,0,0,"20160601_124604.004/LogFile.txt","","Connection Failed -- Unable to connect to Server:i-b5223a19 on port:0\nError resolving host i-b5223a19\n",0
+2016-06-01 12:46:26.026 +0100,"Success",0:00:02,0,0,0,"20160601_124626.026/LogFile.txt","","",1

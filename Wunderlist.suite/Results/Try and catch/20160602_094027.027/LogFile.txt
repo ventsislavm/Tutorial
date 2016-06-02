@@ -1,0 +1,8 @@
+﻿2016-06-02 09:40:27.027 +0100	START		Running Try and catch.script
+2016-06-02 09:40:27.027 +0100	typetext		[escape]	2	on_try_and_catch	Try and catch.script
+2016-06-02 09:40:27.027 +0100	Exception	Wunderlist/WunderlistWunderlist	Could Not Open Image: Wunderlist/WunderlistWunderlist	3	on_try_and_catch	Try and catch.script
+2016-06-02 09:40:28.028 +0100	typetext		[escape]	5	on_try_and_catch	Try and catch.script
+2016-06-02 09:40:29.029 +0100	click	Window/Close Window	at (961, 54)	6	on_try_and_catch	Try and catch.script
+2016-06-02 09:40:30.030 +0100	doubleclick	Wunderlist/Wunderlist	at (39, 354)	7	on_try_and_catch	Try and catch.script
+2016-06-02 09:40:30.030 +0100	EndTestCase		(Duration:"2.844", Errors:"0", Exceptions:"1", StartTime:"2016-06-02 09:40:27 +0100", Successes:"1", TestCase:"Try and catch.script", Warnings:"0")
+2016-06-02 09:40:30.030 +0100	SUCCESS		Execution Time 0:00:03 Try and catch.script

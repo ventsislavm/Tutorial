@@ -1,0 +1,6 @@
+﻿put 10 into var1
+put 20 into var2
+
+put var1+var2 into var3
+
+Log var3

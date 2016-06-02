@@ -1,0 +1,8 @@
+﻿Try
+	TypeText escapeKey
+	doubleClick "Wunderlist/WunderlistWunderlist"
+Catch exception
+	TypeText escapeKey
+	Click "Window/Close Window"
+	DoubleClick "Wunderlist/Wunderlist"
+End try

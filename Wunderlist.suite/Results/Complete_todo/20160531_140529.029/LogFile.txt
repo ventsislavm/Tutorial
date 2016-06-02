@@ -1,0 +1,3 @@
+﻿2016-05-31 14:05:29.029 +0100	START		Running Complete_todo.script
+2016-05-31 14:05:29.029 +0100	EndTestCase		(Duration:"0.4", Errors:"1", Exceptions:"0", StartTime:"2016-05-31 14:05:29 +0100", Successes:"0", TestCase:"Complete_todo.script", Warnings:"0")
+2016-05-31 14:05:30.030 +0100	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'everythingimagelocation' -- Execution Time 0:00:00 Complete_todo.script

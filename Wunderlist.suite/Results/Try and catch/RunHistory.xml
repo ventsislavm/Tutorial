@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Try and catch">
+ <run>
+  <RunDate>2016-06-02 09:40:27.027 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>2.859000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160602_094027.027/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>
